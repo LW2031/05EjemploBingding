@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">05EjemploBingding</string>
+    <string name="etiqueta">INFORMACIÓN ALUMNO</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="grupoa">Grupo A</string>
+    <string name="grupob">Grupo B</string>
+    <string name="grupoc">Grupo C</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="crear">Crear</string>
+    <string-array name="spciclos">
+        <item>Seleccion un ciclo</item>
+        <item>SMD</item>
+        <item>DAM</item>
+        <item>DAW</item>
+        <item>3D</item>
+        <item>Marketing</item>
+    </string-array>
+
+</resources>
